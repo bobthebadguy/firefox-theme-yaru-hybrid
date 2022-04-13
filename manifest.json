@@ -4,9 +4,10 @@
   "name": "Yaru hybrid",
   "theme": {
     "colors": {
-      "toolbar": "#F7F7F7",
+      "toolbar": "#FAFAFA",
       "toolbar_text": "#3D3D3D",
-      "frame": "#292929",
+      "frame": "#323030",
+      "frame_inactive": "#3F3C3C",
       "tab_background_text": "#F7F7F7",
       "toolbar_field": "white",
       "toolbar_field_text": "black",
