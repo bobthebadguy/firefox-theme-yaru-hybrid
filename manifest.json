@@ -11,11 +11,11 @@
       "tab_background_text": "#F7F7F7",
       "toolbar_field": "white",
       "toolbar_field_text": "black",
-      "toolbar_field_border_focus": "#E95420",
+      "toolbar_field_border_focus": "#98ADF7",
       "toolbar_field_border": "#C7C7C7C7",
       "popup": "white",
       "popup_text": "black",
-      "popup_highlight": "#E95420",
+      "popup_highlight": "#315BEF",
       "toolbar_bottom_separator": "#C2C8CE"
     }
   }
