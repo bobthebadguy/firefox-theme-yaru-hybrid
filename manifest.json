@@ -11,6 +11,7 @@
       "toolbar_field": "white",
       "toolbar_field_text": "black",
       "toolbar_field_border_focus": "#E95420",
+      "toolbar_field_border": "#C7C7C7C7",
       "popup": "white",
       "popup_text": "black",
       "popup_highlight": "#E95420",
